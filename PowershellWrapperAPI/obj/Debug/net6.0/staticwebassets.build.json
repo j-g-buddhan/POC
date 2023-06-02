@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kyy1UfKO6y/CtvdYHvFqyEi413roY1mBDYQF0eLpOoE=",
+  "Source": "PowershellWrapperAPI",
+  "BasePath": "_content/PowershellWrapperAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

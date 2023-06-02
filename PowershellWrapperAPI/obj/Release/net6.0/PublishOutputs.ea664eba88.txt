@@ -1,0 +1,12 @@
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\Scripts\myscript.ps1
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\PowershellWrapperAPI.exe
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\PowershellWrapperAPI.dll
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\PowershellWrapperAPI.deps.json
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\PowershellWrapperAPI.runtimeconfig.json
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\PowershellWrapperAPI.pdb
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Learning\repos\PowershellWrapperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
